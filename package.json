@@ -1,0 +1,32 @@
+{
+  "name": "ng-win-doc",
+  "version": "1.0.0-beta.1",
+  "description": "WindowRef & DocumentRef services like ElementRef",
+  "main": "src/index.ts",
+  "typings": "src/index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ancor-dev/ng-win-doc.git"
+  },
+  "keywords": [
+    "angular",
+    "angular2",
+    "window",
+    "win",
+    "windor",
+    "ref",
+    "document",
+    "doc",
+    "document",
+    "ref"
+  ],
+  "author": "Anton Korniychuk <dev@korniychuk.pro> (korniychuk.pro)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ancor-dev/ng-win-doc/issues"
+  },
+  "homepage": "https://github.com/ancor-dev/ng-win-doc#readme"
+}
